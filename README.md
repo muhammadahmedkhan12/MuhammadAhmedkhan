@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ahmed Khan
 
-🎓 CS Student | 💼 Sales Manager | 💻 Aspiring Java Developer  
+🎓 CS Student | 💻 Aspiring Java Developer  
 📍 Karachi, Pakistan  
 🌱 Passionate about building real-world projects and learning modern tech.
 
@@ -34,8 +34,8 @@
 
 ## 📫 Contact Me
 
-- 📧 Email: [your@email.com](mailto:your@email.com)  
-- 🔗 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- 📧 Email: [ahmed1248khan@gmail.com](mailto:ahmed1248khan@gmail.com)  
+- 🔗 LinkedIn: [linkedin.com/in/muhammad-ahmed-khan-782258241]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/muhammad-ahmed-khan-782258241/))
 
 ---
 
