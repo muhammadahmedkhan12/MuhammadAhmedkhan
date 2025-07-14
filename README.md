@@ -8,27 +8,27 @@
 
 ## 🛠️ Tech Stack
 
-- ![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg) **Java**
-- ![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg) **HTML5**
-- ![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg) **CSS3**
-- ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg) **JavaScript**
-- ![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg) **Git**
-- ![GitHub](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg) **GitHub**
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="20"/> Java  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20"/> HTML  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20"/> CSS  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20"/> JavaScript  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="20"/> Git  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="20"/> GitHub  
 
 ---
 
 ## 🚀 Projects
 
-- 🔢 **Number Guessing Game** – Java console game using conditionals and loops  
-- 🏫 **College Admission System** – OOP-based Java system for student admissions  
-- 🌐 **Hobby Website** – Static website using HTML, CSS & JS  
+- 🔢 Number Guessing Game – Java console game using conditionals and loops  
+- 🏫 College Admission System – OOP-based Java system for student admissions  
+- 🌐 Hobby Website – Static website using HTML, CSS & JS  
 
 ---
 
 ## 📚 Currently Learning
 
-- **Object Oriented Programming in Java** – UC San Diego (Coursera)  
-- **Introduction to Git and GitHub** – Google (Coursera)
+- Object Oriented Programming in Java – UC San Diego (Coursera)  
+- Introduction to Git and GitHub – Google (Coursera)
 
 ---
 
