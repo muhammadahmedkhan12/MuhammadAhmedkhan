@@ -17,11 +17,13 @@
 
 ---
 
+
 ## 🚀 Projects
 
-- 🔢 Number Guessing Game – Java console game using conditionals and loops  
-- 🏫 College Admission System – OOP-based Java system for student admissions  
-- 🌐 Hobby Website – Static website using HTML, CSS & JS  
+- 🔢 [Number Guessing Game](https://github.com/yourusername/number-guessing-game) – Java console game using conditionals and loops  
+- 🏫 [College Admission System (Contributor)](https://github.com/kiran-murtaza/collegeadmissionsystem) – Java-based OOP system for student admissions (collaborative project)  
+- 🌐 [Hobby Website](https://github.com/yourusername/hobby-website) – Static website using HTML, CSS & JS  
+
 
 ---
 
