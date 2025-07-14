@@ -1,21 +1,19 @@
 # 👋 Hi, I'm Ahmed Khan
 
 🎓 CS Student | 💼 Sales Manager | 💻 Aspiring Java Developer  
-📍 Based in Karachi, Pakistan  
+📍 Karachi, Pakistan  
 🌱 Passionate about building real-world projects and learning modern tech.
 
 ---
 
 ## 🛠️ Tech Stack
 
-| Technology | Logo |
-|------------|------|
-| Java       | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> |
-| HTML5      | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> |
-| CSS3       | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/> |
-| JavaScript | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> |
-| Git        | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> |
-| GitHub     | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/> |
+- ![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg) **Java**
+- ![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg) **HTML5**
+- ![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg) **CSS3**
+- ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg) **JavaScript**
+- ![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg) **Git**
+- ![GitHub](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg) **GitHub**
 
 ---
 
@@ -23,7 +21,7 @@
 
 - 🔢 **Number Guessing Game** – Java console game using conditionals and loops  
 - 🏫 **College Admission System** – OOP-based Java system for student admissions  
-- 🌐 **Hobby Website** – A static website using HTML, CSS & JS  
+- 🌐 **Hobby Website** – Static website using HTML, CSS & JS  
 
 ---
 
